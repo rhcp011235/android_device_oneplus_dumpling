@@ -75,7 +75,6 @@ TARGET_USERIMAGES_USE_F2FS := true
 
 # Crypto
 TARGET_HW_DISK_ENCRYPTION = true
-TARGET_CRYPTFS_HW_PATH := device/oneplus/dumpling/cryptfs_hw
 TW_INCLUDE_CRYPTO := true
 TW_CRYPTO_USE_SYSTEM_VOLD := qseecomd
 #TARGET_KEYMASTER_WAIT_FOR_QSEE := true
